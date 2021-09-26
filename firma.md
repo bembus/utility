@@ -16,7 +16,7 @@ Questa guida fornisce un tutorial per la configurazione dell'indirizzo mail del 
 
 Al fine di garantire un'adeguata professionalità nei rapporti con l'esterno, si chiede agli utenti di configurare una firma personalizzata in linea con la *corporate identity* di Bembus.
 1. Per creare una nuova firma, andare su "Mail" > "Preferenze..." e quindi attivare la scheda "Firme".
-2. Cliccare su "+" (in basso a sinistra della sezione centrale) per creare una nuova firma (che si può rinominare con l'etichetta "Bembus" o con un altro nome di facile comprensione), quindi sullo scomparto di destra fare copia e incolla della firma predefinita indicata nel messaggio ricevuto via mail, la cui struttura è riportata sotto. Nell'incollare il testo, si presti attenzione a non alterare la formattazione, ovvero al rispetto delle parti della firma in grassetto.
+2. Cliccare su "+" (in basso a sinistra della sezione centrale) per creare una nuova firma (che si può rinominare con l'etichetta "Bembus" o con un altro nome di facile comprensione), quindi sullo scomparto di destra fare copia e incolla della firma predefinita indicata nel messaggio ricevuto via mail, la cui struttura è riportata sotto. Nell'incollare il testo, si presti attenzione a non alterare la formattazione, ovvero al rispetto delle parti della firma in grassetto (contrassegnate tra asterischi).
 
 ```
 –
@@ -74,10 +74,10 @@ Al fine di garantire un'adeguata professionalità nei rapporti con l'esterno, si
 
 ```
 –
-Nome Cognome
+*Nome Cognome*
 Qualifica
 
-Bembus
+*Bembus*
 A knowledge production community in the humanities
 www.bembus.org
 info@bembus.org
